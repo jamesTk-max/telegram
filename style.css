@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(35, 40, 40);
+    color: #fff;
+    height: 10vh;
+    text-align: center;
+    padding-top: 15px;
+}
+section .channel-image{
+    width: 70px;
+    padding-left: 10px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.verified-icon{
+    width: 25px;
+    vertical-align: middle;
+}
+section{
+    padding-top: 10px;
+    padding-left: 20px; 
+    padding-bottom: 20px; 
+    margin-bottom: 10px;
+    background-color: rgb(240, 240, 240);
+}
+.channel{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+a{
+    color: black;
+    text-decoration: none;
+    padding-left: 15px;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+p{
+    padding-top: 15px;
+    padding-left: 10px;
+}
